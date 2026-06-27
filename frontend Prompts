@@ -1,1 +1,19 @@
+1. The content on Slides 1, 5, 7, and 9 is not properly aligned and needs to be rearranged.
 
+2. The content on Slides 5 and 7 needs to be reviewed.
+
+3. Hidden keywords need to be added to improve ATS (Applicant Tracking System) scanning.
+
+4. Find different AI tools that can evaluate and rate a hackathon presentation (PPT).
+
+5. The content on Slides 5, 7, and 9 should be revised to be shorter, cleaner, and easier to read.
+
+6. Remove the unanswered questions on Slide 3. Instead, write 3 short points that explain what makes your solution unique.
+
+7. Combine Slides 6, 7, and 8. Keep only one architecture slide and show the tools (Python, TensorFlow, React, etc.) where they are used.
+
+8. Add a dashboard mockup. Show what your final application looks like, including prediction graphs, alerts, and accuracy (RMSE/MAE).
+
+9. Simplify Slide 5. Remove the repeated text and make the methodology diagram larger so it's easy to read.
+
+10. Fix small mistakes. Correct "Forntend" to "Frontend" and remove the large tool logos.
